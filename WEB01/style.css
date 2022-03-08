@@ -1,0 +1,43 @@
+
+        /* class */
+        .anasayfa-li {
+            float: left;
+            margin-right: 5px;
+            list-style-type: none;
+            background-color: antiquewhite;
+            padding: 4px;
+            border-radius: 5px;
+        }
+
+        main {
+            background-color: tomato;
+            padding: 1rem;
+        }
+
+        /* Yorum satırı */
+        ul,
+        ol {
+            list-style-type: none;
+        }
+
+        li {
+            background-color: aquamarine;
+        }
+
+        section {
+            background-color: blueviolet;
+            display: inline;
+        }
+
+        /* #section2 {
+            background-color: lightcoral;
+        } */
+
+        section#section2 {
+            background-color: mediumaquamarine;
+
+        }
+        .div
+        {
+            background-color:bisque;display: inline;
+        }
